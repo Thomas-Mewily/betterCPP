@@ -1,6 +1,9 @@
 A template for a C based project (using C++ mostly for template)
 
-Compilation commands :
+## Compilation commands :
+
+- Place yourself at the parent folder of `src`
+- Don't forget to create a `bin` directory in the same folder as `src`
 
 - Fast Compilation :
 
